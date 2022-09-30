@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Computer-Aided Synthesis Planning
-    company: advised by [_Pro. Yaozhongwu_](https://person.zju.edu.cn/en/yimingmo) from [Zhejiang University Mo Research Lab](http://www.mo-group.cn/)
+    company: advised by [_Pro. Yiming Mo_](https://person.zju.edu.cn/yimingmo) from [Zhejiang University Mo Research Lab](http://www.mo-group.cn/)
     company_url: 'http://www.mo-group.cn/'
     company_logo: zju
     location: Hangzhou, China

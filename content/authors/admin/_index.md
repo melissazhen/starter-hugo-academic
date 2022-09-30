@@ -71,4 +71,4 @@ My research interest lies on the cheminformatics, which uses information technol
 
 I am curious about topics such as computered-aided synthesis planning, drug discovery via artificial intelligence, catalyst design with machine learning and so on.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Xu Huang_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
