@@ -1,6 +1,6 @@
 ---
-title: Book Bank
-summary: Initiated the university-wide "Book Bank" plan to donate books to children in poor mountainous areas as well as foster an excellent reading atmosphere in college.
+title: Safety Volunteer
+summary: Organized a long-term voluntary work in traffic control on a daily basis, as the captain of Traffic Safety Volunteer Group in Security Department.
 tags:
 - volunteer
 date: "2022-04-27T00:00:00Z"

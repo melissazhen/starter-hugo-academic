@@ -10,7 +10,7 @@ active: true
 # Order that this section appears on the page.
 weight: 60
 
-title: Activitiy
+title: Activity
 subtitle: ''
 
 content:
@@ -30,7 +30,7 @@ content:
       tag: '*'
     - name: Leadership
       tag: leadership
-    - name: Volunteer
+    - name: Volunteering
       tag: volunteer
 
 design:
