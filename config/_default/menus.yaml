@@ -7,15 +7,19 @@ main:
   - name: Home
     url: '#about'
     weight: 10
+  - name: Publications
+    url: '#featured'
+    weight: 20
   - name: Research Experience
     url: '#research_experience'
-    weight: 20
+    weight: 30
   - name: Honors
     url: '#honors_and_awards'
-    weight: 30
-  - name: Publications
-    url: '#publications'
     weight: 40
+  - name: Activity
+    url: '#activities'
+    weight: 50
+
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.

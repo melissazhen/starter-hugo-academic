@@ -18,7 +18,12 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-  # - Cheminformatics
+  - Computer-aided Molecular Design
+  - Explainable Artificial Intelligence in Chemistry
+  - Automated Synthesis
+  - Catalyst Rational Design
+  - Energy Systems
+  - Circular Economy
 
 # Education to show in About widget
 education:
@@ -28,6 +33,9 @@ education:
       year: 2023
     - course: Exchange Student
       institution: Osaka University
+      year: 2022
+    - course: Material Science Summer School
+      institution: ShanghaiTech University
       year: 2022
 
 # Social/Academic Networking
@@ -67,8 +75,8 @@ highlight_name: true
 
 I am Xu Huang (黄旭), a final year undergraduate from Shanghai Jiao Tong university (SJTU) majoring in Chemical Engineering and Technology.
 
-My research interest lies on the cheminformatics, which uses information technology to promote the development of chemistry, material science and chemical engineering.
+I am eager to devote myself to accelerating autonomous discovery in the chemical sciences by improving data availability, computing abilities, and experimental capabilities.
 
-I am curious about topics such as computered-aided synthesis planning, drug discovery via artificial intelligence, catalyst design with machine learning and so on.
+My research interest especially lies on the cheminformatics / materials informatics which uses computational and informational techniques to understand and solve essential problems of chemistry / materials.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Xu Huang_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Xu HUANG_Curriculum_Vitae.pdf" "newtab" >}}CV{{< /staticref >}}.

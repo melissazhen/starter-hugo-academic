@@ -7,7 +7,8 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 90
+weight: 30
+active: false # WindowsXp: we use `featured` to display publication with images
 
 title: Recent Publications
 subtitle: ''

@@ -6,11 +6,11 @@ widget: portfolio
 # This file represents a page section.
 headless: true
 
-active: false
+active: true
 # Order that this section appears on the page.
-weight: 65
+weight: 60
 
-title: Projects
+title: Activitiy
 subtitle: ''
 
 content:
@@ -28,21 +28,21 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Deep Learning
-      tag: Deep Learning
-    - name: Other
-      tag: Demo
+    - name: Leadership
+      tag: leadership
+    - name: Volunteer
+      tag: volunteer
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
-  columns: '2'
+  columns: '1'
 
   # Toggle between the various page layout types.
   #   1 = List
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view: 2
+  view: 5
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
