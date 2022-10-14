@@ -43,7 +43,7 @@ experience:
         Mg-air batteries are explored as the next-generation power systems for wearable and implantable electronics. However, high corrosion rate and low utilization of Mg anode largely impair the performance. In this work, I made Mg-air batteries based on dual-layer gel electrolyte to mitigate the above two problems by preventing the corrosion of Mg anode and the production of dense passive layer.
 
 
-  - title: The Optimization of an Automatic Platform for Microflow Synthesis
+  - title: Optimization of an Automatic Platform for Microflow Synthesis
     company: advised by [_Prof. Yuanhai Su_](https://scce.sjtu.edu.cn/en/jiaoshi.php?aid=444&c=2) from SJTU Continuous-Flow Reactor Technology Research Group
     location: Shanghai, China
     # company_url: 'https://scce.sjtu.edu.cn/en/'
