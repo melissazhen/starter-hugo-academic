@@ -13,13 +13,13 @@ design:
 
 # Honors and Awards
 ## 2022
--	National Scholarship (top 0.2% nation-wide)
-- Excellent League Leader of SJTU (top 0.3% in SJTU)
-- Xinpu Farming-Reading Scholarship
+-	China National Scholarship (top 0.2%, the highest honor for university students in China)
+- Excellent Leader (top 0.3% in SJTU)
+- Xinpu Reading Scholarship
 ## 2021
-- National Scholarship (top 0.2% nation-wide)
-- Excellent Student Cadre of SJTU (top 0.3% in SJTU)
+- China National Scholarship (top 0.2% nation-wide, the highest honor for university students in China)
+- Honor Cadre (top 0.3% in SJTU)
 ## 2020
-- National Scholarship for Encouragement (top 3% in SJTU)
-- Three Good Student of SJTU (top 3% in SJTU)
-- Excellent League Member of SJTU (top 3% in SJTU)
+- China National Scholarship for Encouragement (top 3% in SJTU, the highest honor for impoverished students)
+- Honor Student (top 3% in SJTU)
+- Excellent Student (top 3% in SJTU)

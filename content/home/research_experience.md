@@ -37,7 +37,7 @@ experience:
     location: Shanghai, China
     # company_url: 'https://scce.sjtu.edu.cn/en/'
     company_logo: sjtu
-    date_start: '2021-12-01'
+    date_start: '2021-09-01'
     date_end: '2022-06-01'
     description: |2-
         Mg-air batteries are explored as the next-generation power systems for wearable and implantable electronics. However, high corrosion rate and low utilization of Mg anode largely impair the performance. In this work, I made Mg-air batteries based on dual-layer gel electrolyte to mitigate the above two problems by preventing the corrosion of Mg anode and the production of dense passive layer.
@@ -48,7 +48,7 @@ experience:
     location: Shanghai, China
     # company_url: 'https://scce.sjtu.edu.cn/en/'
     company_logo: sjtu
-    date_start: '2021-08-01'
+    date_start: '2021-10-01'
     # date_end: '2022-08-01'
     description: |2-
         Automated synthesis is more economical and time-saving than traditional manual-based approaches. In this work, we operated an automatic platform for the photoisomerization of norbornadiene to quadricyclanee, and optimized the structure of the photomicroreactor and the gas chromatographic analysis on this platform.
@@ -58,8 +58,8 @@ experience:
     # company_url: 'https://dmne.sjtu.edu.cn/dmne/'
     company_logo: sjtu
     location: Shanghai, China
-    date_start: '2020-08-01'
-    date_end: '2021-08-01'
+    date_start: '2020-10-01'
+    date_end: '2021-10-01'
     description: |2-
         Black phosphorus (BP) is a novel layered semiconducting material, which has broad prospects in optoelectronics and nanoelectronics, especially in the construction of Resistive random access memories (RRAMs). However, the BP nanosheets (BPNSs) can be easily oxidized, losing semiconductor properties. Here, we focused on the covalent modification of BPNSs, and constructed a RRAM which exhibited an excellent performance, providing a new idea for building high-performance computers in the future .
 design:
