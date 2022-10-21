@@ -17,9 +17,9 @@ design:
 - Excellent Leader (top 0.3% in SJTU)
 - Xinpu Reading Scholarship
 ## 2021
-- China National Scholarship (top 0.2% nation-wide, the highest honor for university students in China)
+- China National Scholarship (top 0.2%, the highest honor for university students in China)
 - Honor Cadre (top 0.3% in SJTU)
 ## 2020
-- China National Scholarship for Encouragement (top 3% in SJTU, the highest honor for impoverished students)
+- China National Scholarship for Encouragement (top 3%, the highest honor for impoverished students)
 - Honor Student (top 3% in SJTU)
 - Excellent Student (top 3% in SJTU)
