@@ -18,12 +18,10 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-  - Computer-aided Molecular Design
-  - Battery Material Desigin and Discovery
+  - Accelerated Discovery and Design
   - Automated Synthesis
-  - Catalyst Rational Design
-  - Energy Systems
-  - Circular Economy
+  - Machine learning for Chemistry
+  - AI4Science
 
 # Education to show in About widget
 education:
