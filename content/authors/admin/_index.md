@@ -73,7 +73,7 @@ highlight_name: true
 
 I am Xu Huang (黄旭), a final year undergraduate from Shanghai Jiao Tong university (SJTU) majoring in Chemical Engineering and Technology.
 
-I am eager to devote myself to accelerating autonomous discovery in the chemical sciences by improving data availability, computing abilities, and experimental capabilities.
+I am eager to devote myself to autonomous discovery in the chemical sciences by improving data availability, computing abilities, and experimental capabilities.
 
 My research interest especially lies on the cheminformatics / materials informatics which uses computational and informational techniques to understand and solve essential problems of chemistry / materials.
 
