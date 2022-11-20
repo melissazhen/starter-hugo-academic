@@ -71,7 +71,7 @@ email: ''
 highlight_name: true
 ---
 
-I am Xu Huang (黄旭), a final year undergraduate from Shanghai Jiao Tong university (SJTU) majoring in Chemical Engineering and Technology.
+I am Xu Huang, a final year undergraduate from Shanghai Jiao Tong university (SJTU) majoring in Chemical Engineering and Technology.
 
 I am eager to devote myself to autonomous discovery in the chemical sciences by improving data availability, computing abilities, and experimental capabilities.
 
