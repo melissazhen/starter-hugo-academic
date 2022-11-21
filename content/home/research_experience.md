@@ -24,23 +24,23 @@ date_format: Jan 2006
 experience:
   - title: Computer-Aided Synthesis Planning
     company: advised by [_Prof. Yiming Mo_](https://person.zju.edu.cn/yimingmo) from [Zhejiang University Mo Research Lab](http://www.mo-group.cn/)
-    company_url: 'http://www.mo-group.cn/'
+    # company_url: 'http://www.mo-group.cn/'
     company_logo: zju
     location: Working Remotely
     date_start: '2022-07-01'
     # date_end: '2023-09-01'
     description: |2-
-        Retrosynthetic analysis is the way that organic chemists draw an imaginary line from a target molecule to available precursors. Can a computer act as a chemist to do this work? To get the answer on my own, I constructed the model of retrosynthesis based on molecular similarity, with the top-50 exact matching accuracy of 80.86%.
+        Retrosynthetic analysis is the way that organic chemists draw an imaginary line from a target molecule to available precursors. Can a computer act as a chemist to do this work? To get the answer on my own, I constructed the model of retrosynthesis based on molecular similarity, with the top-50 exact matching accuracy of 80.84% in USPTO. Furthermore, I am committed to doing computer-assisted synthesis planning of compounds beyond those commonly found in patents, like specialty chemicals, where I have taken the initiative to create a open-access reaction dataset and have already gotten some interesting results.
 
-  - title: Magnesium-Air Battery Based on Dual-Layer Gel Electrolyte
+  - title: Performance Boost for Mg-Air Batteries Using Novel Electrolytes
     company: advised by [_Prof. Yanna Nuli_](https://scce.sjtu.edu.cn/en/jiaoshi.php?aid=112&c=3) from SJTU Electrochemistry and Energy Technology Institute
     location: Shanghai, China
     # company_url: 'https://scce.sjtu.edu.cn/en/'
     company_logo: sjtu
     date_start: '2021-09-01'
-    date_end: '2022-06-01'
+    # date_end: '2022-06-01'
     description: |2-
-        Mg-air batteries are explored as the next-generation power systems for wearable and implantable electronics. However, high corrosion rate and low utilization of Mg anode largely impair the performance. In this work, I made Mg-air batteries based on dual-layer gel electrolyte to mitigate the above two problems by preventing the corrosion of Mg anode and the production of dense passive layer.
+       Mg-air batteries are explored as the next-generation power systems for wearable and implantable electronics. However, high corrosion rate and low utilization of Mg anode largely impair the performance. In this work, I have made Mg-air batteries using novel electrolytes to mitigate the above two problems by preventing the corrosion of Mg anode and the production of dense passive layer.
 
 
   - title: Optimization of an Automatic Platform for Microflow Synthesis
@@ -49,7 +49,7 @@ experience:
     # company_url: 'https://scce.sjtu.edu.cn/en/'
     company_logo: sjtu
     date_start: '2021-10-01'
-    # date_end: '2022-08-01'
+    date_end: '2022-11-01'
     description: |2-
         Automated synthesis is more economical and time-saving than traditional manual-based approaches. In this work, we operated an automatic platform for the photoisomerization of norbornadiene to quadricyclanee, and optimized the structure of the photomicroreactor and the gas chromatographic analysis on this platform.
 

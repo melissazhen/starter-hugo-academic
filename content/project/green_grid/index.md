@@ -1,6 +1,6 @@
 ---
 title: Green Grid
-summary: Contributed to the prevention and control of desertification, as one of the team leaders and interviewers of the Green Grid Charity Group, which is reported and highly praised by China Central Television (CCTV).
+summary: Contributed to the prevention and control of desertification, as one of the team leaders and interviewers of the Green Grid Charity Group, which is reported and highly praised by China Central Television.
 tags:
   - leadership
 date: '2022-04-27T00:00:00Z'
