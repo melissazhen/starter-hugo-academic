@@ -1,6 +1,6 @@
 ---
 title: SJTU Library
-summary: Carried on a crucial reform in the organizational structure and handled general affairs, as the president of Students Management Commission of SJTU Library, which has over 500 students.
+summary: Carried on a crucial reform in the organizational structure and handled general affairs, as president of Students Management Commission of SJTU Library, which has over 500 students.
 tags:
   - leadership
 date: '2022-04-27T00:00:00Z'

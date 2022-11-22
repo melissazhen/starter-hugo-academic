@@ -61,7 +61,7 @@ experience:
     date_start: '2020-10-01'
     date_end: '2021-10-01'
     description: |2-
-        Black phosphorus (BP) is a novel layered semiconducting material, which has broad prospects in optoelectronics and nanoelectronics, especially in the construction of Resistive random access memories (RRAMs). However, the BP nanosheets (BPNSs) can be easily oxidized, losing semiconductor properties. Here, we focused on the covalent modification of BPNSs, and constructed a RRAM which exhibited an excellent performance, providing a new idea for building high-performance computers in the future .
+        Black phosphorus (BP) is a novel layered semiconducting material, which has broad prospects in optoelectronics and nanoelectronics, especially in the construction of Resistive random access memories (RRAMs). However, the BP nanosheets (BPNSs) can be easily oxidized, losing semiconductor properties. Here, we focused on the covalent modification of BPNSs, and constructed a RRAM which exhibited an excellent performance, providing a new idea for building high-performance computers in the future.
 design:
   columns: '2'
 ---
